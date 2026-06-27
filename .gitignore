@@ -1,0 +1,12 @@
+.next/
+node_modules/
+out/
+dist/
+__pycache__/
+*.pyc
+*.log
+*.err
+tsconfig.tsbuildinfo
+.env
+.env.local
+SnapGram.drawio
